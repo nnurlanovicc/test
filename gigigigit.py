@@ -1,3 +1,9 @@
+print('nurs')
+
+
+
+
+
 database = [
     {'username': 'RobStark', 'password': hash('1234test')},
     {'username': 'JhonSnow', 'password': hash('19283746')},
